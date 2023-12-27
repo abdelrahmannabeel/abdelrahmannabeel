@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi There 👋, I'm AbdelRahman Nabeel</h1>
-<h3 align="center">Frontend Developer </h3>
+<h1 align="left">Hi There 👋, I'm AbdelRahman Nabeel</h1>
+<h3 align="left">Frontend Developer </h3>
 
 
-<h3 align="center"> Reach me on:</h3>
+<h3 align="left"> Reach me on:</h3>
 
-<p align="center">
+<p align="left">
   📞 <a href="tel:+201004906089"  target="_blank">+20 100 490 6089</a> <br>
   📩 <a href="mailto:abdelrahmannabeelkassar@gmail.com"  target="_blank">abdelrahmannabeelkassar@gmail.com</a>
 </p>
