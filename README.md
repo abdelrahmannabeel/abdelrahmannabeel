@@ -2,6 +2,14 @@
 <h1 align="center">Hi There 👋, I'm AbdelRahman Nabeel</h1>
 <h3 align="center">Frontend Developer </h3>
 
+
+<h3 align="center"> Reach me on:</h3>
+
+<p align="center">
+  📞 <a href="tel:+201004906089"  target="_blank">+20 100 490 6089</a> <br>
+  📩 <a href="mailto:abdelrahmannabeelkassar@gmail.com"  target="_blank">abdelrahmannabeelkassar@gmail.com</a>
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-nabeel/" target="_blank">
@@ -30,18 +38,6 @@
 
   <a href="https://twitter.com/RahmanKsr" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RahmanKsr" height="30" width="40" />
-  </a>
-
-  <a href="tel:+201004906089" title="Call" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phone/phone.svg" alt="phone" height="30" width="40"/>
-  </a>
-
-  <a href="mailto:abdelrahmannabeelkassar@gmail.com" title="mail" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mail/mail.svg" alt="mail" height="30" width="40"/>
-  </a>
-
-  <a href="https://www.tiktok.com/@abdelrahman.nabeel" title="tiktok" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tiktok/tiktok.svg" alt="tiktok" height="30" width="40"/>
   </a>
 </p>
 
