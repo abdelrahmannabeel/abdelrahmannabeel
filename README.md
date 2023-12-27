@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdelRahman-nabeel" height="30" width="40" />
   </a>
 
-  <a href="https://www.leetcode.com/abdelRahman-nabeel" target="_blank">
+  <a href="[https://www.leetcode.com/abdelRahman-nabeel](https://leetcode.com/abdelrahmannabeel/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelRahman-nabeel" height="30" width="40" />
   </a>
 
